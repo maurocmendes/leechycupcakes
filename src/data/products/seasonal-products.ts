@@ -1,0 +1,38 @@
+export const seasonalProducts = [
+  {
+    id: 24,
+    title: "Cupcake Natalino de Frutas Cristalizadas",
+    ingredients: "Massa de baunilha, cobertura de baunilha com frutas cristalizadas",
+    description: "Massa de baunilha, cobertura de baunilha com frutas cristalizadas",
+    price: 18.99,
+    image: "https://images.unsplash.com/photo-1481391319762-47dff72954d9",
+    isNew: true,
+    discount: 0,
+    orderCount: 50,
+    isChristmas: true,
+  },
+  {
+    id: 25,
+    title: "Cupcake Natalino de Chocolate com Menta",
+    ingredients: "Massa de chocolate, cobertura de menta natalina",
+    description: "Massa de chocolate, cobertura de menta natalina",
+    price: 19.99,
+    image: "https://images.unsplash.com/photo-1514056052883-d017fddd0426",
+    isNew: true,
+    discount: 0,
+    orderCount: 45,
+    isChristmas: true,
+  },
+  {
+    id: 26,
+    title: "Cupcake Natalino de Nozes e Canela",
+    ingredients: "Massa de canela, cobertura de nozes",
+    description: "Massa de canela, cobertura de nozes",
+    price: 20.99,
+    image: "https://images.unsplash.com/photo-1481391243133-f96216dcb5d2",
+    isNew: true,
+    discount: 0,
+    orderCount: 40,
+    isChristmas: true,
+  }
+];
